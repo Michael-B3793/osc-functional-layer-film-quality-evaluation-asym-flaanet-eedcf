@@ -1,0 +1,69 @@
+AFM Academic/Commercial License (Citation + Commercial Permission) v1.0
+
+Copyright (c) 2026 Michael B.
+All rights reserved.
+
+This license governs use of the software and associated materials in this repository
+(the "Work"). By copying, using, modifying, or distributing the Work, you agree to
+the terms below.
+
+1. Definitions
+   "Academic Use" means use primarily for non-profit education or academic research,
+   including publications, theses, dissertations, preprints, posters, and research
+   software prototypes, where the user is not receiving commercial compensation for
+   providing the Work as a product or service.
+
+   "Commercial Use" means any use primarily intended for or directed toward
+   commercial advantage or monetary compensation. Without limitation, Commercial Use
+   includes: (a) use in a commercial product or service; (b) use to provide paid
+   services (consulting, SaaS, support, hosting, outsourcing); (c) internal use by a
+   for-profit entity in a way that supports revenue generation, product development,
+   or customer deliverables; (d) licensing, selling, or monetizing outputs as part
+   of a business offering.
+
+2. Grant of Rights (Academic Use)
+   Subject to full compliance with this license, you are granted a worldwide,
+   royalty-free, non-exclusive right to:
+   (a) download and use the Work for Academic Use;
+   (b) reproduce and modify the Work for Academic Use;
+   (c) distribute the Work or derivatives for Academic Use only, provided you do so
+       under this same license and preserve all attribution notices.
+
+3. Mandatory Citation (Condition of Permission)
+   If you use the Work or any derivative (in whole or in part) in any Academic Use
+   output or communication (including but not limited to papers, theses,
+   dissertations, preprints, posters, reports, presentations, and released code),
+   you must cite the following references:
+
+   Michael B. "Paper A: Shape-Aware Dual-Expert Network for AFM Image Detection."
+   TBD, 2026. DOI: TBD.
+
+   Michael B. "Paper B: TBD."
+   TBD, 2026. DOI: TBD.
+
+   If you publish results produced with the Work, the citation must appear in
+   the publication and/or accompanying repository/documentation.
+
+4. Attribution
+   You must retain this LICENSE file and any existing copyright notices in all
+   copies or substantial portions of the Work. If you modify files and
+   distribute them, you must clearly mark that you changed the files.
+
+5. Prohibited Uses
+   (a) Commercial Use is not permitted under this license without separate written
+       permission from the copyright holder.
+   (b) You may not remove or obscure the citation requirement in Section 3.
+   (c) You may not misrepresent the origin of the Work.
+
+6. Commercial Licensing
+   For Commercial Use permissions, you must obtain a separate commercial license or
+   written authorization from the copyright holder. Contact: TBD
+
+7. No Warranty; Limitation of Liability
+   THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+   AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+   OUT OF OR IN CONNECTION WITH THE WORK OR THE USE OR OTHER DEALINGS IN THE
+   WORK.

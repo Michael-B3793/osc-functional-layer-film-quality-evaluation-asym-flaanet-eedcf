@@ -1,0 +1,18 @@
+{
+  "image_dir": "image_detection/dataset_400/text_images",
+  "model_path": "image_detection/Final_Model_Training_shape/best.pth",
+  "device": "mps",
+  "count_total": 40,
+  "count_valid": 40,
+  "count_failed": 0,
+  "mean": {
+    "EEDCF": 57.63963463092837,
+    "ASDI": 0.7358106837144255,
+    "MMCSO": 1.1013867231334906
+  },
+  "std": {
+    "EEDCF": 2.2287205805837527,
+    "ASDI": 0.03324064333852601,
+    "MMCSO": 0.10178092436764767
+  }
+}
